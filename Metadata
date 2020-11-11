@@ -1,0 +1,14 @@
+id - Nickname of the player in the lobby
+uno - Unique identifier of the player in the lobby
+kd_br - KDR of the player identified by "uno"
+Placement - Placement of the player in the lobby of single match
+Kills - Number of kills of the player in the lobby of single match
+MatchXP - Experience earned by the player during the match
+Score - Total score of the player in the match
+Deaths - Number of deaths in the analysed during the match
+Damage - Total damage caused
+Mode - BR solos, duos, trios or quads
+Player - Player whose lobbies have been analysed
+KDR - KDR class of the Player analysed (e.g. above 3 for savyultras90 and TeePee)
+Console - Platform or console used by the Player from COD Tracker (e.g. PSN for savyultras90)
+idmatch - Identifier of the match analysed
