@@ -1,3 +1,3 @@
 # SBMM-Analysis
 
-Code and data used to make an analysis of the SBMM in Call of Duty Warzone
+Code and data used to analyse the SBMM in Call of Duty Warzone
