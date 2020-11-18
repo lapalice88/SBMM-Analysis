@@ -1,5 +1,5 @@
 uno - Unique identifier of the player in the lobby
 kd_br - KDR of the player identified by "uno"
-team - Placement of the player in the lobby of single match
+team - Team of the player in the lobby of single match
 Player - Player whose lobbies have been analysed
 idmatch - Identifier of the match analysed
